@@ -1,4 +1,4 @@
-"# Estructuras_de_datos_en_c-" 
+# Estructuras_de_datos_en_c-
 
 Estructuras de datos basicas programadas en C++
 
