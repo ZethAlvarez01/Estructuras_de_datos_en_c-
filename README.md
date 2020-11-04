@@ -6,7 +6,7 @@ Estructuras de datos basicas programadas en C++
 - [x] Colas
 - [x] Listas ordenada simplemente enlazadas
 - [x] Listas doblemente enlazadas
-- [ ] Listas circulares
+- [x] Listas circulares
 - [ ] Listas circulares doblemente enlazadas
 
 
